@@ -1,7 +1,0 @@
-name: Emoniaplugin
-version: '1.0-SNAPSHOT'
-main: org.serverplugin.emoniaplugin.Emoniaplugin
-api-version: '1.20'
-commands:
-  shop:
-    description: Открыть магазин с купленными товарами
